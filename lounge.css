@@ -85,3 +85,10 @@ a:visited {
   background: #f88396;
   color: #0d5353;
 }
+
+li {
+  list-style-image: url("images/backpack.gif");
+  padding-top:     5px;
+  margin-left:     20px;
+}
+
